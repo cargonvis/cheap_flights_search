@@ -76,8 +76,8 @@ This project is a flight search application that helps you find the cheapest fli
 ### Built With
 
 * [![Python][Python.org]][Python-url]
-* [![Pandas][Pandas.org]][Pandas-url]
 * [![Json][Json.org]][Json-url]
+* [![Pandas][Pandas.org]][Pandas-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,10 +219,10 @@ Project Link: [https://github.com/cargonvis/cheap_flights_search](https://github
 [product-screenshot]: images/project_image.png
 [Python.org]: https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://python.org/
-[Pandas.org]: https://img.shields.io/badge/pandas-orange?style=for-the-badge&logo=pandas&logoColor=white
-[Pandas-url]: https://pandas.pydata.org/
 [Json.org]: https://img.shields.io/badge/json-yellow?style=for-the-badge&logo=json&logoColor=white
 [Json-url]: https://www.json.org/
+[Pandas.org]: https://img.shields.io/badge/pandas-orange?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]: https://pandas.pydata.org/
 [Email-shield]: https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white
 [Email-url]: cgonv1993@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white
