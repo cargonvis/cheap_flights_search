@@ -184,7 +184,7 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 <!-- CONTACT -->
 ## Contact
 
-cargonvis - [@cargonvis](https://twitter.com/cargonvis) - cgonv1993@gmail.com
+cargonvis - [![Twitter][Twitter-shield]][Twitter-url] [![Email][Email-shield]][Email-url] [![Discord][Discord-shield]][Discord-url]
 
 Project Link: [https://github.com/cargonvis/cheap_flights_search](https://github.com/cargonvis/cheap_flights_search)
 
@@ -215,8 +215,14 @@ Project Link: [https://github.com/cargonvis/cheap_flights_search](https://github
 [issues-url]: https://github.com/cargonvis/cheap_flights_search/issues
 [license-shield]: https://img.shields.io/github/license/cargonvis/cheap_flights_search.svg?style=for-the-badge
 [license-url]: https://github.com/cargonvis/cheap_flights_search/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&color=white
 [linkedin-url]: https://linkedin.com/in/carlosgonzalezvisiedo
 [product-screenshot]: images/project_image.png
 [Python.org]: https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://python.org/
+[Twitter-shield]: https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
+[Twitter-url]: https://twitter.com/cargonvis
+[Email-shield]: https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white
+[Email-url]: cgonv1993@gmail.com
+[Discord-shield]: https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white
+[Discord-url]: https://discordapp.com/users/439897699299491850
