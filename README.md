@@ -75,9 +75,9 @@ This project is a flight search application that helps you find the cheapest fli
 
 ### Built With
 
-* [![Python][Python.org]][Python-url]
-* [![Json][Json.org]][Json-url]
-* [![Pandas][Pandas.org]][Pandas-url]
+[![Python][Python.org]][Python-url]
+[![Json][Json.org]][Json-url]
+[![Pandas][Pandas.org]][Pandas-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
