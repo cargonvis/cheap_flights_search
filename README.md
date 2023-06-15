@@ -224,7 +224,7 @@ Project Link: [https://github.com/cargonvis/cheap_flights_search](https://github
 [Pandas.org]: https://img.shields.io/badge/pandas-orange?style=for-the-badge&logo=pandas&logoColor=white
 [Pandas-url]: https://pandas.pydata.org/
 [Email-shield]: https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white
-[Email-url]: cgonv1993@gmail.com
+[Email-url]: mailto:cgonv1993@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/carlosgonzalezvisiedo
 [Discord-shield]: https://img.shields.io/badge/discord-darkblue?style=for-the-badge&logo=discord&logoColor=white
