@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]<!--(https://example.com)-->
 
 This project is a flight search application that helps you find the cheapest flight offers based on your search criteria. It uses the IATA and ICAO Codes API to retrieve information about airlines, and the Kiwi API for searching flights.
 
