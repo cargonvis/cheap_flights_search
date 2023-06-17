@@ -222,7 +222,7 @@ Project Link: [https://github.com/cargonvis/cheap_flights_search](https://github
 [Python-url]: https://python.org/
 [Json.org]: https://img.shields.io/badge/json-yellow?style=for-the-badge&logo=json&logoColor=white
 [Json-url]: https://www.json.org/
-[Pandas.org]: https://img.shields.io/badge/pandas-orange?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas.org]: https://img.shields.io/badge/Pandas-black?logo=pandas&style=for-the-badge&logoColor=white
 [Pandas-url]: https://pandas.pydata.org/
 [Email-shield]: https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white
 [Email-url]: mailto:cgonv1993@gmail.com
