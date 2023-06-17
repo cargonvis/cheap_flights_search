@@ -12,6 +12,6 @@ pip install requests
 
 echo 'clear' >> ~/.bashrc
 
-echo 'sudo python3 ~/cheap_flights_raspberry_zero/main_10_offers.py' >> ~/.bashrc
+echo 'sudo python3 ~/cheap_flights_raspberry_zero/main.py' >> ~/.bashrc
 
 sudo reboot
